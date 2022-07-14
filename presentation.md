@@ -1,20 +1,24 @@
 # Presentation title
 
-Robert Turner, Paul Richmond, University of Sheffield RSE Team
-September, 2021
+David Palmquist - California State University, Fullerton - dpalmquist@fullerton.edu
 
-# Slide 1 Title
 
-Thanks for coming, thanks to the conference organisers, thanks to the RSE team at Sheffield, Paul Richmond in particular.
+# Slide 1 Acknowledgements
 
-# Slide 2 Title
+Thanks for coming, thanks to the conference organisers.
 
-![Bob Turner](images/bobicorn.jpg){ height=256px }
+# Slide 2 Overview
+* Why the tool exists
+* See how it works
+* Branching and the phone booth problem
+* Brain Storming Making It Better
+* Coding Guidelines
+* Accomplished / Kudos
+* 
 
-Mix of software engineering and research experience.
+# ![Bob Turner](images/bobicorn.jpg){ height=256px }
+
 
 # Slide 3 Title
 
-![RSE](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/raw/master/assets/images/logo/rse-logoonly-stroke.png){ height=256px }
 
-13 RSEs, 35 projects / year worth ~£11m total
