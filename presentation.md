@@ -51,7 +51,7 @@ V1 was to convert it to a command line utility
 # Feature Planning 
 
 ## Picture Example
-![Bob Turner](images/bobicorn.jpg){ height=256px }
+![sample image](images/image.jpg){ height=256px }
 
 
 ## Slide 3 Title
