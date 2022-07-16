@@ -3,14 +3,10 @@
 % August xx, 2022
 
 # Introduciton
-
 ## Presentation title
-
 David Palmquist - California State University, Fullerton - dpalmquist@fullerton.edu
 
-
 ## Slide 1 Acknowledgements
-
 Thanks for coming, thanks to the conference organisers.
 
 ## Slide 2 Overview
@@ -38,8 +34,6 @@ V1 was to convert it to a command line utility
 - was able to run it myeself from the commandline as I taught the section
 - only problem was the phone booth problem, i.e. having 25 committers trying to commit on master simultaneously
 
-
-
 # Demo
 ## Class command/checklist
  - edit roster to include class names
@@ -49,12 +43,8 @@ V1 was to convert it to a command line utility
  - generate conflict ./gcrw files --conflict
 
 # Feature Planning 
-
 ## Picture Example
 ![Bob Turner](images/bobicorn.jpg){ height=256px }
-
-
 ## Slide 3 Title
 # Wrap Up
-
 # Follow Up
