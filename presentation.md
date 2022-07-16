@@ -1,4 +1,4 @@
-% Habits
+% Carpentry Con 2022  GIT Class Repo Wrangler
 % David Palmquist
 % August xx, 2022
 
