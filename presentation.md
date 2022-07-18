@@ -44,8 +44,16 @@ Version 1: convert it to a command line utility
 
 ---
 
+:::::::::::::: {.columns}
+::: {.column }
 - only problem was the "phone booth problem," i.e. 25 committers trying to commit on main simultaneously
+:::
+::: {.column }
 ![Phone Booth Stuffing](images/phonebooth-p.png){ height=500px }
+:::
+::::::::::::::
+
+
 
 # Demo
 ## Class command/checklist
