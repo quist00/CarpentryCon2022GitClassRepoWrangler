@@ -36,7 +36,9 @@ V0 was born.  It was a series of helper scripts in a jupyter/vs code file that I
 V1 was to convert it to a command line utility
 - second test was great until the end
 - was able to run it myself from the commandline as I taught the section
+--------
 - only problem was what I call the phone booth problem, i.e. having 25 committers trying to commit on master simultaneously
+![Phone Booth Stuffing](images/phonebooth-p.png){ height=500px }
 
 # Demo
 ## Class command/checklist
@@ -47,13 +49,13 @@ V1 was to convert it to a command line utility
  - generate conflict ./gcrw files --conflict
 
 # Feature Planning 
-## Picture Example
-![Phone Booth Stuffing](images/phonebooth-p.png){ height=500px }
 
 
-## Slide 3 Title
+## Brain Storming Making It Better
+## Coding and Committing Guidelines
+
 # Wrap Up
-## Slide 1 Acknowledgements
+## Acknowledgements
 Thanks for coming, thanks to the conference organisers.
 
 # Follow Up
