@@ -4,7 +4,7 @@
 
 # Introduciton
 ## Sign In / Collaboration
-[CodiMD](https://codimd.carpentries.org/KxKhyablReeYwKveWVRuYA#)
+[CodiMD](https://codimd.carpentries.org/KxKhyablReeYwKveWVRuYA?both)
 ## A bit about me
 - David Palmquist
 - email: dpalmquist@fullerton.edu
