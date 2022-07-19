@@ -79,7 +79,7 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
 
 # Feature Planning 
 
-## Brain Storming: What else should it do?
+## Brain Storming: What should it do?
 - Pull roster from sources?
 - Add better exception handling
     - Continue after item failure
@@ -90,7 +90,7 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
     - Pull requests require at least one approval
     - Pull request require code owner approval
 - Get added to the [project board](https://github.com/users/quist00/projects/1) so we can organize who is working on what.
-    - Mistakes may happen on the way.  Patience and Kindness
+    - Mistakes may happen on the way.  Have Patience and Kindness for yourself and others.
 - Use variables_like_this rather than variablesLikeThis
 - If that is new to you, don't let it stop you from contributing. Take this opportunity to learn.
 
