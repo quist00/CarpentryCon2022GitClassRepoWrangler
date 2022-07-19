@@ -7,14 +7,16 @@
 - David Palmquist
 - email: dpalmquist@fullerton.edu
 - github: quist00
-- California State University, Fullerton
+- California State University, Fullerton Analyst / Programmer
     - Career Center for 15 years
     - Pollak Library for 6 years
+- Carpentries Instructor for about 3 years
 
 ## Overview
-- Why the tool exists
+- Why the tool exists. [Repo](https://github.com/quist00/carpentriesGitClassRepoWrangler)
 - See how it works
 - Evolution
+    - V0 bag of scripts
     - V1 and the phone booth problem
     - V1.1:  a little bit of branching
 - Brain Storming Making It Better
@@ -29,6 +31,7 @@ Short answer: FEAR!
 - Early pandemic
 - Transitioned to teaching python over zoom in my own non-official workshops
 - Stragegically avoided GIT module due to the complexity
+---
 - Then, Volunteered to co-teach full Software Carpentry Workshop. 
     -Even though I was only the helper for the GIT section, trying to do that remotely was a concern.  It was challenging enough in person.  I had a few weeks, so I tried to come up with some helper scripts
 
@@ -53,7 +56,10 @@ Version 1: convert it to a command line utility
 :::
 ::::::::::::::
 
+---
+Thus,
 
+Version 1.1 was born in an attempt to solve the "phone booth problem." It moved files to individual branches.  This will necessitate teaching a little bit about branching, which is not in the current SWC lesson.  If there is a better way, then let's find it during the brainstorming session later.
 
 # Demo
 ## Class command/checklist
@@ -66,9 +72,21 @@ Version 1: convert it to a command line utility
 
 # Feature Planning 
 
-
 ## Brain Storming Making It Better
+What else should it do
+- Pull roster from sources?
+- Add better exception handling
+    - Continue after item failure
+    - Report what succeeded and what failed
 ## Coding and Committing Guidelines
+- Clone repo and use pull request model for contributions.
+    - Pull requests require at least one approval
+    - Pull request require code owner approval
+- Get added to the [project board](https://github.com/users/quist00/projects/1) so we can organize who is working on what.
+    - Mistakes may happen on the way.  Patience and Kindness
+- Use variables_like_this rather than variablesLikeThis
+- If that is new to you, don't let it stop you from contributing. Take this opportunity to learn.
+
 
 # Wrap Up
 ## Acknowledgements
