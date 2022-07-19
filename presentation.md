@@ -39,7 +39,7 @@ Short answer: FEAR!
 ---
 
 - Then, Volunteered to co-teach full Software Carpentry Workshop. 
-    -Even though I was only the helper for the GIT section, trying to do that remotely was a concern.  It was challenging enough in person.  I had a few weeks, so I tried to come up with some helper scripts
+    - Even though I was only the helper for the GIT section, trying to do that remotely was a concern.  It was challenging enough in person.  I had a few weeks, so I tried to come up with some helper scripts
 
 
 ## Version 0 was born.  
