@@ -84,6 +84,7 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
 - Add better exception handling
     - Continue after item failure
     - Report what succeeded and what failed
+
 ## Coding and Committing Guidelines
 - Clone repo and use pull request model for contributions.
     - Pull requests require at least one approval
@@ -97,6 +98,7 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
 # Wrap Up
 ## Acknowledgements / Contact
 Thank you all for coming, and thanks to the conference organisers, our facilitator and zoom support.
+
 - David Palmquist
 - email: dpalmquist@fullerton.edu
 - github: quist00
