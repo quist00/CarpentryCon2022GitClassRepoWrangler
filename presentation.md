@@ -35,17 +35,20 @@ Short answer: FEAR!
 - Early pandemic
 - Transitioned to teaching python over zoom in my own non-official workshops
 - Stragegically avoided GIT module due to the complexity
+
 ---
+
 - Then, Volunteered to co-teach full Software Carpentry Workshop. 
     -Even though I was only the helper for the GIT section, trying to do that remotely was a concern.  It was challenging enough in person.  I had a few weeks, so I tried to come up with some helper scripts
 
----
 
-Version 0 was born.  It was a series of helper scripts in a jupyter/vs code file that I could run in the background as the helper. It worked well enough, but only because I wrote it and was running it. I wanted to make it shareable.
+## Version 0 was born.  
+- a series of helper scripts in a jupyter/vs code file that I could run in the background as the helper. 
+- worked well enough, but was not enough time at the end to discover it's main weakness
 
----
 
-Version 1: convert it to a command line utility
+
+## Version 1: convert it to a command line utility
 - second test was great until the end
 - was able to run it myself from the commandline as I taught the section
 
