@@ -2,7 +2,7 @@
 % David Palmquist
 % August 02, 2022
 
-# Introduciton
+# Introduction
 ## Sign In / Collaboration
 [CodiMD](https://codimd.carpentries.org/KxKhyablReeYwKveWVRuYA?both)
 
@@ -42,7 +42,7 @@ Short answer: FEAR!
     - Even though I was only the helper for the GIT section, trying to do that remotely was a concern.  It was challenging enough in person.  I had a few weeks, so I tried to come up with some helper scripts
 
 
-## Version 0 was born.  
+## Version 0 was born 
 - a series of helper scripts in a jupyter/vs code file that I could run in the background as the helper. 
 - worked well enough, but was not enough time at the end to discover it's main weakness
 
