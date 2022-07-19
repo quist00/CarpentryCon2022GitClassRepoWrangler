@@ -18,11 +18,11 @@
 
 ## Overview
 - Why the tool exists. [Repo](https://github.com/quist00/carpentriesGitClassRepoWrangler)
-- See how it works
 - Evolution
     - V0 bag of scripts
     - V1 and the phone booth problem
     - V1.1:  a little bit of branching
+- See how it works
 - Brain Storming Making It Better
 - Coding and Committing Guidelines
 - Accomplished / Kudos / Blog Post???
@@ -102,6 +102,7 @@ Thank you all for coming, and thanks to the conference organisers, our facilitat
 - David Palmquist
 - email: dpalmquist@fullerton.edu
 - github: quist00
+
 # Follow Up
 ## Accomplished
 ## Kudos
