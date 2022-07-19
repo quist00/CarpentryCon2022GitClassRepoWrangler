@@ -79,8 +79,7 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
 
 # Feature Planning 
 
-## Brain Storming Making It Better
-What else should it do
+## Brain Storming: What else should it do?
 - Pull roster from sources?
 - Add better exception handling
     - Continue after item failure
