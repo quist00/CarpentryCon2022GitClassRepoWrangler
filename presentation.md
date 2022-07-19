@@ -5,6 +5,7 @@
 # Introduciton
 ## Sign In / Collaboration
 [CodiMD](https://codimd.carpentries.org/KxKhyablReeYwKveWVRuYA?both)
+
 ## A bit about me
 - David Palmquist
 - email: dpalmquist@fullerton.edu
@@ -92,9 +93,11 @@ What else should it do
 
 
 # Wrap Up
-## Acknowledgements
-Thanks for coming, thanks to the conference organisers.
-
+## Acknowledgements / Contact
+Thank you all for coming, and thanks to the conference organisers, our facilitator and zoom support.
+- David Palmquist
+- email: dpalmquist@fullerton.edu
+- github: quist00
 # Follow Up
 ## Accomplished
 ## Kudos
