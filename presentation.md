@@ -73,9 +73,9 @@ Version 1.1 was born in an attempt to solve the "phone booth problem." It moved 
  - edit roster to include class names
  - invite people to be collaborators ./gcrw invite
  - generate solo files ./gcrw files
- - have them clone the repo
+ - have them clone the repo and checkout their branch by username
  - generate conflict ./gcrw files --conflict
- - have them checkout their branch, edit file, try to commit, then resolve conflict
+ - have them edit file, try to commit, then resolve conflict
 
 # Feature Planning 
 
